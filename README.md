@@ -1,2 +1,2 @@
 # Kaggle
-The notebook i work on and submit on Kaggle
+The notebooks i work on and submit on Kaggle
